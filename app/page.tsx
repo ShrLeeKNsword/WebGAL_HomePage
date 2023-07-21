@@ -10,7 +10,7 @@ export default function RootPage() {
           <div className='flex flex-row justify-center items-end w-fit gap-4'>
             <Image src={'/favicon.ico'} width={64} height={64} alt='logo' />
             <div>
-              <h1 className='text-xl font-semibold'>WebGAL HomePage</h1>
+              <h1 className='text-xl font-semibold'>JHB HomePage</h1>
               <p className='text-lg text-gray-800'>Loading...</p>
             </div>
           </div>
